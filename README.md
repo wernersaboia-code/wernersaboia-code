@@ -72,6 +72,12 @@ Atuo no ciclo completo de produtos web — da modelagem de dados ao deploy em pr
 **Práticas:** Conventional Commits · code review · hardening de segurança · RLS ·
 observabilidade · backups cifrados · deploy em VPS · smoke tests pós-deploy.
 
+## 🖥️ Infraestrutura que eu opero
+
+- **VPS Hetzner**: provisionamento, deploy automatizado a partir da `main`, volumes de mídia e persistência de estado.
+- **Cloudflare R2**: backups externos cifrados, com rotina de limpeza automatizada.
+- **Observabilidade**: Sentry na API e no front, com smoke tests pós-deploy no pipeline.
+
 ---
 
 ## 📊 Estatísticas
