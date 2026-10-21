@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Werner 👋
 
 Desenvolvedor focado em criar soluções robustas através de projetos autorais e consistentes. Trato cada linha de código pessoal com o rigor e a qualidade de um ambiente corporativo — o que se reflete na minha constância diária de desenvolvimento.
 
