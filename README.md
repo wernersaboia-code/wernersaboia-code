@@ -78,7 +78,7 @@ Bloqueei a auto-promoção a super-admin, fechei vazamentos no portal, coloquei 
 
 ## 📊 Estatísticas
 
-![Werner's GitHub stats](https://github-readme-stats-werner.vercel.app/api?username=wernersaboia-code&show_icons=true&hide_rank=true&count_private=true)
+![Werner's GitHub stats](https://github-readme-stats-werner.vercel.app/api?username=wernersaboia-code&show_icons=true&hide_rank=true&count_private=true&private_contributions=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wernersaboia-code&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wernersaboia-code&theme=default&hide_border=true)
 
