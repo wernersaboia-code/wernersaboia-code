@@ -1,5 +1,7 @@
 # Olá, eu sou o Werner 👋
 
+[🇺🇸 English version](README.en.md)
+
 **Desenvolvedor full-stack** (Next.js + Java/Spring) em Fortaleza, focado em segurança de aplicações,
 infraestrutura e DevOps — de VPS na Hetzner a backups cifrados no Cloudflare R2 — e em produtos
 que vão para produção de verdade. Atuo na software house **Axyon**, onde também sou mentor técnico
@@ -44,12 +46,8 @@ Bloqueei a auto-promoção a super-admin, fechei vazamentos no portal, coloquei 
 
 ### 👥 Outros perfis
 
-Mantenho contas separadas por causa dos limites de uso do Supabase e da Vercel:
-
-- **[@perfil-2](https://github.com/)** — projetos com Supabase
-- **[@perfil-3](https://github.com/)** — projetos com Vercel
-
-> *(substituir pelos usuários reais e por uma linha do que há em cada um)*
+- **[@torinoorbit-dev](https://github.com/torinoorbit-dev)** — conta que uso para o trabalho na Axyon: revisão de PRs e contribuições em múltiplos repositórios da software house (food-delivery, storyverse, orbit-crm, glowhub, entre outros).
+- **[@wernersaboiacarvalho](https://github.com/wernersaboiacarvalho)** — projetos pessoais iniciais (mantida por causa dos limites de Supabase/Vercel).
 
 ---
 
@@ -75,6 +73,16 @@ Mantenho contas separadas por causa dos limites de uso do Supabase e da Vercel:
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![Werner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wernersaboia-code&show_icons=true&hide_rank=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wernersaboia-code&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=wernersaboia-code&theme=default&hide_border=true)
+
+> A maior parte do meu trabalho diário está em repositórios privados da Axyon — os números acima contam só parte da história.
 
 ---
 
