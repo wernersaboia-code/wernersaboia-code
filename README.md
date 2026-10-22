@@ -28,7 +28,7 @@ Fechei IDOR e XSS no fluxo de pagamento, corrigi o estorno em cobranças com val
 Implementei auth com confirmação de e-mail, cota de IA controlada no servidor (com métricas e cache), moderação com papéis e auditoria, presença via SSE e sincronização offline→nuvem sem perda de dados.
 `Spring Boot` `Next.js` `Supabase` `SSE` `Hetzner`
 
-**📈 EasyProspect** (ex-Orbit CRM): CRM multi-tenant com portal do cliente e módulos de SEO e social media.
+**📈 Orbit CRM** · [demo](https://orbit-crm-jade.vercel.app): CRM multi-tenant com portal do cliente e módulos de SEO e social media.
 Bloqueei a auto-promoção a super-admin, fechei vazamentos no portal, coloquei RLS validada no CI com migrations automáticas e construí o módulo de auditoria SEO com Playwright.
 `Next.js` `Supabase (RLS)` `Playwright` `CI/CD`
 
@@ -41,6 +41,15 @@ Bloqueei a auto-promoção a super-admin, fechei vazamentos no portal, coloquei 
 | [**Book Inventory**](https://github.com/wernersaboia-code/library-next) · [demo](https://library-next-taupe.vercel.app) | Catálogo de livros com leitor EPUB/PDF, importação do Calibre e uso offline | Busca full-text em PT, catálogo **OPDS** para apps de leitura, deduplicação por SHA-256/ISBN, RLS por usuário, testes Vitest + Playwright no CI |
 | [**EasyProspect**](https://easyprospect.com.br) · [código](https://github.com/wernersaboia-code/agencycrm) | CRM para agências, em produção | Next.js + Prisma, i18n, Sentry, Vitest |
 | [**Projeto Zero**](https://github.com/wernersaboia-code/projeto-zero) | Jogo de grande estratégia em grid hexagonal | Godot 4 / GDScript, porque eu também gosto de sistemas que não são CRUD 🎲 |
+
+### 👥 Outros perfis
+
+Mantenho contas separadas por causa dos limites de uso do Supabase e da Vercel:
+
+- **[@perfil-2](https://github.com/)** — projetos com Supabase
+- **[@perfil-3](https://github.com/)** — projetos com Vercel
+
+> *(substituir pelos usuários reais e por uma linha do que há em cada um)*
 
 ---
 
